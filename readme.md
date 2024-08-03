@@ -1,5 +1,6 @@
 # UnBlind
 
+## UnBlind: A Social Network to illuminate Information Without Blinding Your Identity
 
 # Thanks to all the contributors 🫶🏻
 
